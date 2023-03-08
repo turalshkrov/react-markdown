@@ -46,7 +46,7 @@ This is a [link](https://www.freecodecamp.org)
 - Unordered Item
   - Indented Item
 ---
-Emoji :+1:
+Emoji :heart:
 
 Text with a Footnote.[^1]
 
