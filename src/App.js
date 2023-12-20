@@ -35,7 +35,7 @@ This is a [link](https://www.freecodecamp.org)
 | First | Second |
 | Third | Fourth |
 
-![Test Icon](https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg)
+![Test Icon](https://picsum.photos/536/354)
 ---
 - [X] Checked Item
 - [ ] Unchecked Item
